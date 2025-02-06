@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @NutteeraTung (Nutteera Tungkasikij)
-- 👩‍🎓 B.Eng(Industrial Engineering - Logistics) @KU💚 ⏩ M.Eng(Industrial Engineering) @CU💟
-- 🐱‍💻 I'm one of the members at DRMIS @ Chula
+- 👩‍🎓 B.Eng(Industrial Engineering - Logistics) @KU💚
+- ⏩ M.Eng(Industrial Engineering) @CU💟
+- 🐱‍💻 I'm one of the members at DRMIS @ Chulalongkorn University
+- 👩‍💻 Data Remodeling @Bong Sen NGO
+- 👧 I'm a membership of IEEE R10 SAC team
 - 👀 I’m interested in Python in field of Data Science & Data analytics
 - 🌱 I’m currently learning machine learning for risk management
 - 🎈 Python, Django Framework, HTML, CSS, Figma, GitBash, PostgreSQL ✨😁
