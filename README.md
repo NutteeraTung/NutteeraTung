@@ -6,6 +6,7 @@
 - 👧 I'm a membership of IEEE R10 SAC team
 - 👀 I’m interested in Python in field of Data Science & Data analytics
 - 🌱 I’m currently learning machine learning for risk management
+- 💻 DA, DS, Vibe coding
 - 📫 Contact me -> mail:Nutteeratung@gmail.com or linkedin: https://www.linkedin.com/in/nutteera-tungkasikij-621082295/
 
 
