@@ -9,7 +9,7 @@ Currently studying in the last year of Master's degree.
 ## Professional Experiences
 - Research Assistant (Full time) of Center of Excellence in Disaster and Risk Management Information Systems (DRMIS) @Chulalongkorn University
 - Data Remodeling (Remote | Part time) @Bong Sen NGO
-- IEEE R10 student representative of SAC (Student Activities Committee)
+- IEEE R10 student representative of SAC 2025-2026 (Student Activities Committee)
 ## Area of interested 
 - Data science, Data analysis and Artificial Intelligence
 - Machine Learning and AI for Disaster and Risk Management in Real-World Data
