@@ -1,13 +1,22 @@
-- 👋 Hi, I’m Nutteera (Nutteera Tungkasikij)
-- 👩‍🎓 B.Eng(Industrial Engineering - Logistics) @KU💚 second class honors
-- ⏩ M.Eng(Industrial Engineering) @CU💟
-- 🐱‍💻 I'm one of the members at Center of Excellence in Disaster and Risk Management Information Systems (DRMIS) @ Chulalongkorn University
-- 👩‍💻 Data Remodeling @Bong Sen NGO
-- 👧 I'm a IEEE R10 student representative of SAC (Student Activities Committee)
-- 👀 I’m interested in Python in field of Data Science & Data analytics
-- 🌱 I’m currently learning machine learning for risk management
-- 💻 DA, DS, Vibe coding
-- 📫 Contact me -> mail:Nutteeratung@gmail.com or linkedin: https://www.linkedin.com/in/nutteera-tungkasikij-621082295/
+# Get to know me
+👋 Hi all, it's me Nutteera Tungkasikij. Let's call me Parn. 
+Currently studying in the last year of Master's degree.
+## Educations
+- B.Eng (Second Class Honors) (Industrial Engineering - Logistics) @Kasetsart Kamphaeng Saen Campus
+  Gpa: 3.34
+- M.Eng(Industrial Engineering) @Chulalongkorn university
+  Gpa 3.81
+## Professional Experiences
+- Research Assistant (Full time) of Center of Excellence in Disaster and Risk Management Information Systems (DRMIS) @Chulalongkorn University
+- Data Remodeling (Remote | Part time) @Bong Sen NGO
+- IEEE R10 student representative of SAC (Student Activities Committee)
+## Area of interested 
+- Data science, Data analysis and Artificial Intelligence
+- Machine Learning and AI for Disaster and Risk Management in Real-World Data
+- Vibe coding
+## Contact Channel
+[📫 LinkedIn] (https://www.linkedin.com/in/nutteera-tungkasikij-621082295/)
+[G-mail] (nutteeratung@gmail.com)
 
 
 
