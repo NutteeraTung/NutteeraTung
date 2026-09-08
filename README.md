@@ -4,7 +4,8 @@
 - B.Eng (Second Class Honors) (Industrial Engineering - Logistics) @Kasetsart Kamphaeng Saen Campus | Gpa: 3.34
 - M.Eng(Industrial Engineering) @Chulalongkorn university | Gpa 3.81
 ## Professional Experiences
-- Research Assistant (Full time) at Center of Excellence in Disaster and Risk Management Information Systems (DRMIS) @Chulalongkorn University
+- Research Assistant (Full time) at Center of Excellence in Disaster and Risk Management Information Systems (DRMIS), Chulalongkorn University
+- Teacher Assistant (Courses), Department of Industrial Engineering, Chulalongkorn University
 - Data Remodeling (Remote | Part time) at Bong Sen NGO
 - IEEE R10 student representative 2025 - 2026 from SAC (Student Activities Committee)
 ## Area of interested 
